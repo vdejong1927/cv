@@ -176,7 +176,7 @@ Satellite imagery showing a phytoplankton bloom. Credit: NASA Goddard Space Flig
 
 ### Aerial Imagery
 
-Aerially mounted cameras on drones, planes and helicopters can produce high quality often georeferenced imagery of nearshore sites or areas that are hard to get to by other means of transport like sea ice.
+Aerially mounted cameras on drones, planes and helicopters can produce high quality often georeferenced imagery of nearshore sites **or areas that are hard to get to by other means of transport like sea ice.** [This sounds like sea ice is the transport mode. Consider rephrasing: "or areas that are hard to reach by other means of transport due to impediments/obstructions/issues/etc like sea ice" OR "or hard to reach areas such as those covered by/containing sea ice"]
 
 :::{figure} images/image-4.png
 :name: seal-population
