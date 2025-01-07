@@ -22,7 +22,7 @@ A) a visual representation of something: such as
 
 B) the optical counterpart of an object produced by an optical device (such as a lens or mirror) or an electronic device 
 
-Images are composed of pixels. The word pixel comes from **pic**ture **el**ments and to the computer each pixel is simply a number. 
+Images are composed of pixels. The word pixel comes from **pic**ture **el**ements and to the computer each pixel is simply a number. 
 
 :::{figure} images/pixel_lincoln.png
 :name: pixel_example
